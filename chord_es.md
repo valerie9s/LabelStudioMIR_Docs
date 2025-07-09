@@ -10,8 +10,6 @@ Note: If you aren't familiar with these concepts, you might be better suited for
 ![](chord_interface.drawio.png) 
 
 <br>
-   
-   
 
 **Instructions:**
  - Listen for chord changes
