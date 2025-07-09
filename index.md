@@ -11,3 +11,4 @@ This is the documentation for LabelStudio-MIR, using the [Just the Docs] theme. 
 
 ----
 
+[Just the Docs]: https://github.com/just-the-docs/just-the-docs-template
