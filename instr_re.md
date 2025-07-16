@@ -17,7 +17,7 @@ Note: This task is designed to be possible to complete with only hotkeys (play -
  - Listen for instrument
  - Use hotkeys (1 or 2) to confirm whether or not the instrument is in the audio.
     - If you find this instrument and you are **sure** it's in the audio clip, you may move onto the next without listening all the way through. 
- - Submit the task (Ctrl+enter)
+ - Submit the task (Ctrl+Enter)
 
 ----
 

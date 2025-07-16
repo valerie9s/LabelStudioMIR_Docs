@@ -12,12 +12,12 @@ Note: If you aren't familiar with these concepts, you might be better suited for
 <br>
 
 **Instructions:**
- - Listen for chord changes
- - Identify beginning and end location of a chord segment (drag to create audio region)
-    - If you're uncertain about timing, you can enable looping in the audio element settings and adjust the start and end location of your audio region.
-    - Try to minimize segment gaps and overlap. This will be fixed in post processing within a certain threshold.
- - Press hotkey (1) to create chord segment
- - Use pitch and chord class hotkeys to annotate (see figure below)
+ - Listen through and mentally identify chord change locations
+ - Return to start and replay using hotkey (R -> space)
+ - Press semicolon (;) **each time** you hear a chord change
+    - This helps create exact chord segments that span the audio clip
+    - Make sure to press semicolon at the end of the clip to create the last audio region.
+ - Click on each region and use pitch and chord class hotkeys to annotate (see figure below)
     - These hotkeys sound as you press! Use them to identify the chords while listening.
     - The pitch class hotkeys annotate both the root note and the bass note. If you'd like to change the bass note, you can scroll down and select it manually.  
 
