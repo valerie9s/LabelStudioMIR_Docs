@@ -8,18 +8,23 @@ layout: home
 
 ![](BeatMarkers.drawio.png)
 
-Please use wired headphones or speakers for this task, since Bluetooth headphones can have a problematic amount of latency. We'd like for these annotations to be as accurate as possible, but we understand that sometimes there can be some uncertainty.  
-
-<br>
 
 **Instructions:**
  - Play audio clip
  - Use hotkeys (semicolon (;) for downbeat, quote (') for beat) to place a beat annotation.
  - Press replay hotkey (R -> space) to listen back
 
-<br>
+*Note: Please use wired headphones or speakers for this task, since Bluetooth headphones can have a problematic amount of latency.*
 
-Depending on your system there can be a bit of latency for sounding the beats, so you can mute it if necessary.
+*Note: Playback latency can differ between systems, so use the mute button if necessary*
+
+
+<br>
+<details>
+<summary>More details</summary>
+<p><strong>Hotkey keyboard layout:</strong></p>
+<img src="beat_ctrls.drawio.png" alt="instrument controls">
+</details>
 
 ----
 
