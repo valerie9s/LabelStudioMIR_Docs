@@ -7,9 +7,9 @@ layout: home
 
 
 
-![](chord_interface.png) 
+<!-- ![](chord_interface.png) 
 
-![](chord_controls_2.drawio.png)
+![](chord_controls_2.drawio.png) -->
 <br>
 
 **Instructions:**
@@ -25,9 +25,11 @@ layout: home
 *Note: This task calls for strong familiarity with music theory and some amount of ear training.*
 
 <br>
-
-
-
+<details>
+<summary>More details</summary>
+<p><strong>Hotkey keyboard layout:</strong></p>
+<img src="chord_controls_2.drawio.png" alt="chord annotation controls">
+</details>
 
 ----
 

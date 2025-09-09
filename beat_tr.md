@@ -6,7 +6,7 @@ layout: home
 
 **Automatic Beat Tracking** is a [traditional MIR task] which marks the temporal location of [beats], often also including downbeats (the first beat of a measure). This is equivalent to when you would tap your finger or your foot to a piece of music.
 
-![](BeatMarkers.drawio.png)
+<!-- ![](BeatMarkers.drawio.png) -->
 
 
 **Instructions:**
