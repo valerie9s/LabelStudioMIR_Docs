@@ -14,9 +14,9 @@ layout: home
  - Use hotkeys (semicolon (;) for downbeat, quote (') for beat) to place a beat annotation.
  - Press replay hotkey (R -> space) to listen back
 
-*Note: Please use wired headphones or speakers for this task, since Bluetooth headphones can have a problematic amount of latency.*
+> *Note: Please use wired headphones or speakers for this task, since Bluetooth headphones can have a problematic amount of latency.*
 
-*Note: Playback latency can differ between systems, so use the mute button if necessary*
+> *Note: Playback latency can differ between systems, so use the mute button if necessary*
 
 
 <br>

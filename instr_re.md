@@ -21,7 +21,7 @@ layout: home
     - If you hear this instrument and you are **sure** it's in the audio clip, you may move onto the next without listening all the way through
  - Submit the task (Ctrl+Enter)
 
-*Note: This task is designed to be possible to complete with only hotkeys (play -> choice -> submit)*
+> *Note: This task is designed to be possible to complete with only hotkeys (play -> choice -> submit)*
 
 <br>
 <details>

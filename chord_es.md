@@ -3,7 +3,7 @@ title: Chord Annotation
 layout: home
 --- 
 ## Chord Annotation
-**Chord Annotation** is a traditional MIR task concerned with labeling sequences of chords in a song. In this task, an audio segment is partitioned into its respective chord labels. Tasks typically either use a selection of popular chord classes or Harte notation (a rigid yet comprehensive way to notate chords). We chose to use popular chord classes[^1] in order to streamline the workflow.
+**Chord Annotation** is a traditional MIR task concerned with labeling sequences of chords in a song. In this task, an audio segment is partitioned into its respective chord labels. Tasks typically either use a selection of popular chord classes or Harte notation (a rigid yet comprehensive way to notate chords). We chose to use [popular chord classes] in order to streamline the workflow.
 
 
 
@@ -22,7 +22,7 @@ layout: home
     - These hotkeys sound as you press! Use them to identify the chords while listening.
     - The pitch class hotkeys annotate both the root note and the bass note. If you'd like to change the bass note, you can scroll down and select it manually
 
-*Note: This task calls for strong familiarity with music theory and some amount of ear training.*
+> *Note: This task calls for strong familiarity with music theory and some amount of ear training.*
 
 <br>
 <details>
@@ -33,10 +33,7 @@ layout: home
 
 ----
 
-
-[^1]: These classes were chosen pretty arbitrarily from Table 2 in the [Harte notation] paper. If you feel like a chord class is common enough to warrant being included in these hotkeys, please let me know!
-
 [beats]: https://en.wikipedia.org/wiki/Beat_(music)
 [traditional MIR task]: https://www.music-ir.org/mirex/wiki/2025:Audio_Chord_Estimation
-[Harte notation]: https://ismir2005.ismir.net/proceedings/1080.pdf
+[popular chord classes]: https://ismir2005.ismir.net/proceedings/1080.pdf
 
