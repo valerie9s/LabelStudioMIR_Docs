@@ -3,6 +3,13 @@ title: Instrument Recognition
 layout: home
 ---
 ## Instrument Recognition
+
+<iframe width="560" height="315"
+    src="https://www.youtube.com/watch?v=BM2pHjliUNk"
+    frameborder="0"
+    allowfullscreen></iframe>
+
+
 **Instrument Recognition** is a traditional MIR task concerned with identifying which instruments are in an audio clip. 
 
 ![](instrument_recognition_question.png)
