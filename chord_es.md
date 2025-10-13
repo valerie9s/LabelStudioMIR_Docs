@@ -3,8 +3,16 @@ title: Chord Annotation
 layout: home
 --- 
 ## Chord Annotation
-**Chord Annotation** is a traditional MIR task concerned with labeling sequences of chords in a song. In this task, an audio segment is partitioned into its respective chord labels. Tasks typically either use a selection of popular chord classes or Harte notation (a rigid yet comprehensive way to notate chords). We chose to use [popular chord classes] in order to streamline the workflow.
 
+<br>
+<iframe width="560" height="315"
+    src="https://www.youtube.com/embed/kax_MknotMM"
+    frameborder="0"
+    allowfullscreen>
+</iframe>
+<br>
+
+**Chord Annotation** is a traditional MIR task concerned with labeling sequences of chords in a song. In this task, an audio segment is partitioned into its respective chord labels. Tasks typically either use a selection of popular chord classes or Harte notation (a rigid yet comprehensive way to notate chords). We chose to use [popular chord classes] in order to streamline the workflow.
 
 
 <!-- ![](chord_interface.png) 
